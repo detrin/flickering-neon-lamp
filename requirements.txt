@@ -1,0 +1,12 @@
+numpy
+polars
+matplotlib
+opencv-python
+tqdm
+scipy
+fitter
+statsmodels
+plotly
+optuna
+scikit-learn
+networkx
